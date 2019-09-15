@@ -1,4 +1,4 @@
-# Clustering, Prediction and Classification of PANSS data
+# Clustering, Prediction and Classification of PANSS Data
 
 This project uses real data from five randomized controlled trials for patients with schizophrenia, and performs clustering, prediction and classification. 
 
